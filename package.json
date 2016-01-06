@@ -1,0 +1,28 @@
+{
+  "name": "first-npm-module",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "kirgan_s",
+    "email": "k.somville@free.fr",
+    "url": "https://github.com/ksomville"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ksomville/first-npm-module.git"
+  },
+  "homepage": "https://github.com/ksomville/first-npm-module",
+  "bugs": {
+    "url": "https://github.com/ksomville/first-npm-module/issues"
+  }
+}
